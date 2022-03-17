@@ -1,0 +1,165 @@
+body{
+    
+    margin: 0;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+nav a{
+    color: white;
+}
+nav{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px;
+}
+#lo{
+    width: 200px;
+
+}
+.menu a{
+    margin: 2px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+
+}
+.ham img{
+    width: 15px;
+
+}
+.f{
+
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    position: relative;
+    
+
+}
+.f1{
+    height: 500px;
+    background-image: url(first.jpg);
+   
+    
+}
+.f2{
+    height: 537px;
+    background-image: url(s1.jpg);
+    
+}
+.f3{
+    height: 500px;
+    background-image: url(t1.jpg);
+    
+}
+.f4{
+    height: 530px;
+    background-image: url(moon.jpg);
+}
+.footer{
+    height: 100px;
+    background-color: black;
+}
+h2, h4{
+    color: white;
+    margin-bottom: -20px;
+    
+}
+h2{
+    font-size: 30px;
+    height: 70px;
+    
+}
+h4{
+
+    font-weight: 100;
+    font-size: 16px;
+
+}
+button{
+    width: 120px;
+    height: 40px;
+    
+}
+.button{
+    background: transparent;
+    border: 2px solid white ;
+    border-color: rgb(255, 255, 255);
+   
+}
+.button{
+
+    color:white;
+    font-size: 10px;
+    font-weight:bolder ;
+}
+.t1{
+    /* line-height: 29px; */
+    margin-top: 110px;
+    margin-left: 40px;
+    
+  
+}
+.t2 h2{
+    
+    margin-top: 0;
+}
+.c .button{
+    border: none;
+}
+.r{
+    margin-top: -70px;
+    margin-left: 40px;
+    line-height: 10px;
+}
+.k{
+    margin-top: 70px;
+    
+}
+.footer{
+    display: flex;
+    text-align: center;
+
+       
+}
+.links{
+    padding: 23px;
+    
+    
+}
+.links a{
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+    padding-right: 16px;
+    font-weight: 400;
+    font-weight: bolder;
+    
+}
+.t2 h4{
+    margin:0;
+}
+.tp{
+    padding-top: 200px;
+    padding-left: 40px;
+}
+.tpp{
+    padding-top: 326px;
+}
+.lic{
+    
+    padding: 1px;
+    display: flex;
+    margin: 0;
+    height: 20px;
+
+    padding-left: 100px;
+} 
+h5{
+    color: #979797;
+    display: flex;
+    padding-top: 27px;
+    padding-left: 86px;
+    margin: 0;
+    font-size: 10px;
+} 
